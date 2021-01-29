@@ -1,0 +1,14 @@
+C:\Users\mau_r\source\repos\andre\andre\bin\Debug\andre.exe.config
+C:\Users\mau_r\source\repos\andre\andre\bin\Debug\andre.exe
+C:\Users\mau_r\source\repos\andre\andre\bin\Debug\andre.pdb
+C:\Users\mau_r\source\repos\andre\andre\obj\Debug\andre.csprojResolveAssemblyReference.cache
+C:\Users\mau_r\source\repos\andre\andre\obj\Debug\andre.csproj.CoreCompileInputs.cache
+C:\Users\mau_r\source\repos\andre\andre\obj\Debug\andre.exe
+C:\Users\mau_r\source\repos\andre\andre\obj\Debug\andre.pdb
+C:\Users\mau_l\source\repos\andre\andre\bin\Debug\andre.exe.config
+C:\Users\mau_l\source\repos\andre\andre\bin\Debug\andre.exe
+C:\Users\mau_l\source\repos\andre\andre\bin\Debug\andre.pdb
+C:\Users\mau_l\source\repos\andre\andre\obj\Debug\andre.csprojAssemblyReference.cache
+C:\Users\mau_l\source\repos\andre\andre\obj\Debug\andre.csproj.CoreCompileInputs.cache
+C:\Users\mau_l\source\repos\andre\andre\obj\Debug\andre.exe
+C:\Users\mau_l\source\repos\andre\andre\obj\Debug\andre.pdb
